@@ -1,10 +1,11 @@
-### 프론트엔드 개발자 나건일 입니다.
+## 안녕하세요 프론트엔드 개발자 나건일 입니다.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=gunil0610)
 
 ![gunil0610's github stats](https://github-readme-stats.vercel.app/api?username=gunil0610&show_icons=true)
 [![gunil0610's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gunil0610&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/gunil0610)
 
+### Skills
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
@@ -17,3 +18,6 @@
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/TestingLibrary-E33332?style=flat-square&logo=TestingLibrary&logoColor=white"/>
 <p>
+
+### My Pages
+[My portfolio](https://gunil-portfolio.netlify.app/)
